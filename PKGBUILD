@@ -2,7 +2,7 @@
 
 pkgname=ksplash-archpaint2
 pkgver=1.1
-pkgrel=3
+pkgrel=4
 pkgdesc="KSplash theme based on archpaint2 wallpaper"
 arch=('any')
 url="http://www.archlinux.org"

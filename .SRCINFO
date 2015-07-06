@@ -1,7 +1,7 @@
 pkgbase = ksplash-archpaint2
 	pkgdesc = KSplash theme based on archpaint2 wallpaper
 	pkgver = 1.1
-	pkgrel = 3
+	pkgrel = 4
 	url = http://www.archlinux.org
 	arch = any
 	license = CCPL
